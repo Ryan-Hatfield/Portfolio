@@ -31,7 +31,7 @@ For homework one, we were assigned to build a boostrap responsive portfolio, usi
   - The URL where the respository where your homework is housed.
 
 
-##MIT License
+## MIT License
 
 Copyright (c) 2020 Ryan Hatfield
 
