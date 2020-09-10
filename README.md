@@ -30,6 +30,10 @@ For homework one, we were assigned to build a boostrap responsive portfolio, usi
   - The URL for the deployed applications (GitHub Pages)
   - The URL where the respository where your homework is housed.
 
+## Contact Information
+
+Ryan Hatfield - hatfield086@gmail.com
+
 
 ## MIT License
 
