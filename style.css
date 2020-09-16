@@ -45,6 +45,15 @@ input[type=submit]:hover {
     display: table;
     clear: both;
 }
+
+#contactHeader {
+    text-align: center;
+}
+
+#contactLi {
+    color: white;
+}
+
   
 @media screen and (max-width: 992px) {
     .column, input[type=submit] {
