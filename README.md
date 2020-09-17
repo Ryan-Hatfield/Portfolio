@@ -4,7 +4,7 @@
 When you open up the application, you will see a homepage that has a short bio about myself. In the top right corner you will find a dropdown navbar that has links to my contact information and my application portfolio. When looking at the contact information you will see my email address, phone number and links to my LinkedIn, GitHub profile and a link to my resume. While looking at the porfolio page, you will find one application that I contributed on during a team project. You will also see two applications that I created myself for homework assignments.
 
 ## Technologies Used
-This application, uses a CSS framework along with local CSS and HTML.
+This application, uses a CSS framework along with local CSS and HTML. This is a mobile first application.
 
 ## Contact Information
 
