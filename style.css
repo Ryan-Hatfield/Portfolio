@@ -54,6 +54,14 @@ input[type=submit]:hover {
     color: white;
 }
 
+h3 {
+    text-align: center;
+}
+
+.card  {
+    text-align: center;
+    
+}
   
 @media screen and (max-width: 992px) {
     .column, input[type=submit] {
