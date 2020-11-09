@@ -58,9 +58,22 @@ h3 {
     text-align: center;
 }
 
-.card  {
-    text-align: center;
-    
+h4 {
+    color: white;
+}
+
+.col-sm {
+    text-align: center;    
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+#footer {
+    color: white;
 }
   
 @media screen and (max-width: 992px) {
