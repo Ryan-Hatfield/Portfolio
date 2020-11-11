@@ -11,7 +11,7 @@ When you open up the application, you will see a homepage that has a short bio a
 
 * [License](#License)
 
-* [Tecnologies Used](#Technologies Used)
+* [Technologies Used](#Technologies Used)
 
 * [Questions](#Questions)
 
