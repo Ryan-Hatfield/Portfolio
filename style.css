@@ -1,9 +1,10 @@
 body {
     background-color: white;
+    font-weight: bold;
 }
 
 main {
-    font-family: 'Caveat', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
   
 input[type=text], select, textarea {
@@ -29,7 +30,7 @@ input[type=submit]:hover {
   
 .container {
     border-radius: 5px;
-    background: linear-gradient(to bottom, rgb(133, 126, 126) 0%, white 100%);
+    background: linear-gradient(to bottom, rgb(216, 213, 213) 0%, white 100%);
     padding: 10px;
     clear: both;
 }
@@ -47,8 +48,13 @@ input[type=submit]:hover {
     clear: both;
 }
 
+#aboutH3 {
+    font-weight: bold;
+}
+
 #contactHeader {
     text-align: center;
+    font-weight: bold;
 }
 
 #contactLi {
@@ -66,6 +72,18 @@ h4 {
 .col-sm {
     text-align: center; 
     padding-bottom: 5%;   
+}
+
+#portfolioH3 {
+    font-weight: bold;
+}
+
+#contactLi {
+    color: dodgerblue;
+}
+
+#linksH4 {
+    color: black;
 }
   
 @media screen and (max-width: 992px) {
