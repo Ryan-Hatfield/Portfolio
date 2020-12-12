@@ -1,0 +1,94 @@
+body {
+    background-color: white;
+    font-weight: bold;
+}
+
+main {
+    font-family: 'Open Sans', sans-serif;
+}
+  
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+  
+input[type=submit] {
+    background-color: dodgerblue ;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+  
+input[type=submit]:hover {
+    background-color: firebrick;
+}
+  
+.container {
+    border-radius: 5px;
+    background: linear-gradient(to bottom, rgb(216, 213, 213) 0%, white 100%);
+    padding: 10px;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#aboutH3 {
+    font-weight: bold;
+}
+
+#contactHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+#contactLi {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    color: white;
+}
+
+.col-sm {
+    text-align: center; 
+    padding-bottom: 5%;   
+}
+
+#portfolioH3 {
+    font-weight: bold;
+}
+
+#contactLi {
+    color: dodgerblue;
+}
+
+#linksH4 {
+    color: black;
+}
+  
+@media screen and (max-width: 992px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+}
