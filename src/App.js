@@ -10,7 +10,7 @@ import Portfolio from './pages/Portfolio';
 class App extends Component {
  render() {
    return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Portfolio">
     <div>
       <Navigation />
         <Switch>
