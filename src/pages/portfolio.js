@@ -1,11 +1,11 @@
 import React from "react";
 import "../assets/css/style.css";
 import clock from "../assets/images/5oclockDrink.png";
-import employee from "../assets/images/5oclockDrink.png";
-import weather from "../assets/images/5oclockDrink.png";
-import note from "../assets/images/5oclockDrink.png";
-import read from "../assets/images/5oclockDrink.png";
-import schedule from "../assets/images/5oclockDrink.png";
+import employee from "../assets/images/employeeManagment.png";
+import weather from "../assets/images/weather.png";
+import note from "../assets/images/notetaker.png";
+import read from "../assets/images/readmeGen.png";
+import schedule from "../assets/images/scheduler.png";
 
 function Portfolio() {
     return (
