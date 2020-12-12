@@ -24,7 +24,7 @@ When you open up the application, you will see a homepage that has a short bio a
 Application is deployed, user does not need to install anything in order to use it. Please refer to the "Usage" section for deployed link
 
 ## Technology
-This application, uses a CSS framework along with local CSS and HTML. This is a mobile first application.
+This application, uses React and a CSS framework along with local CSS and HTML. This is a mobile first application.
 
 ## Usage
 
